@@ -577,4 +577,5 @@
 \nImat će kombinirani prioritet videozapisa od 10.
 \n
 \nNAPOMENA: Ako je zbroj 10 ili više, video player će automatski preskočiti učitavanje kada se ta poveznica učita!</string>
+    <string name="already_voted">Već si glasao/la</string>
 </resources>

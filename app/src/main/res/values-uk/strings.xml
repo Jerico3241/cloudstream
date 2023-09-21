@@ -136,7 +136,7 @@
     <string name="double_tap_to_seek_amount_settings">Крок перемотки (секунди)</string>
     <string name="double_tap_to_pause_settings_des">Натисніть двічі посередині, щоб призупинити відтворення відео</string>
     <string name="use_system_brightness_settings">Використовувати яскравість системи</string>
-    <string name="episode_sync_settings">Оновити прогрес перегляду</string>
+    <string name="episode_sync_settings">Оновлювати прогрес перегляду</string>
     <string name="restore_settings">Відновлення даних з резервної копії</string>
     <string name="backup_settings">Резервне копіювання даних</string>
     <string name="restore_failed_format" formatted="true">Не вдалося відновити дані з файлу %s</string>

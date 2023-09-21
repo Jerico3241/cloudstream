@@ -155,4 +155,5 @@
     <string name="home_main_poster_img_des">मुख्य पोस्टर</string>
     <string name="episode_poster_img_des">एपिसोड का पोस्टर</string>
     <string name="app_dub_sub_episode_text_format" formatted="true">%s Ep %d</string>
+    <string name="filler" formatted="true">पूरक</string>
 </resources>
